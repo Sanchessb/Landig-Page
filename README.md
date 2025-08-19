@@ -11,3 +11,4 @@ Pesquisa de soluções e resolução de problemas de forma independente.
 
 Objetivo:
 Criar uma página limpa, organizada e que sirva como demonstração das habilidades adquiridas durante o curso, além de praticar boas práticas de desenvolvimento web.
+LInk pra do preojeto: https://sanchessb.github.io/Landig-Page/
